@@ -2,7 +2,7 @@
 
 Welcome!
 
-I'm **Aniekan Inyang**, a Technical Writer and Software Engineer in Training passionate about making complex technologies easy to understand.
+I'm **Aniekan Inyang**, a Technical Writer and Software Engineer in Training, passionate about making complex technologies easy to understand.
 
 This repository showcases my technical articles, API documentation, tutorials, and developer-focused writing samples.
 
