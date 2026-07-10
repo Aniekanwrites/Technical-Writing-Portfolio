@@ -79,18 +79,24 @@ This repository will also include:
 
 # 📫 Connect With Me
 
-GitHub
-
+💻 **GitHub**  
 https://github.com/Aniekanwrites
 
-Hashnode
-
+✍️ **Hashnode**  
 https://aniekanwrites.hashnode.dev
 
-DEV Community
-
+📝 **DEV Community**  
 https://dev.to/aniekanwrites
 
-LinkedIn
+📚 **Medium**  
+https://medium.com/@luca7jobs
 
+💼 **LinkedIn**  
 https://www.linkedin.com/in/aniekan-inyang-69116af151/
+
+📧 **Email**  
+<aniekan.inyang84@gmail.com>
+
+---
+
+I'm currently open to remote opportunities in Technical Writing, API Documentation, Developer Documentation, SaaS, FinTech, Cloud Computing, and Cybersecurity.
